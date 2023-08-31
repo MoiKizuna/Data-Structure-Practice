@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3543e732-ea21-4666-a14a-639eb5383a59" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MySingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MySingleLinkedListCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Structure-Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyLinkedListCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyLinkedListCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySingleLinkedListCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySingleLinkedListCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693481708811</updated>
-      <workItem from="1693481711257" duration="2084000" />
+      <workItem from="1693481711257" duration="2534000" />
     </task>
     <servers />
   </component>

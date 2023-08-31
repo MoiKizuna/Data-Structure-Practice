@@ -1,5 +1,5 @@
 import java.util.NoSuchElementException;
-
+// https://leetcode.cn/problems/design-linked-list/
 public class MySingleLinkedListCode {
     private static class Node {
         int val;

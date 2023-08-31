@@ -1,5 +1,8 @@
 import java.util.NoSuchElementException;
-
+// momo:
+// 使用单链表最坑的点在于，如果要增加删除的是第一个元素，那么需要特殊处理，不可以直接用getNode(index - 1)，因为单链表没有前驱节点。
+// 而且如果链表为空，那么增加删除操作也就不可避免需要访问到“第一个元素”，所以需要特殊处理。
+// https://leetcode.cn/problems/design-linked-list/
 public class MySingleLinkedList<E> {
     private static class Node<E> {
         E val;

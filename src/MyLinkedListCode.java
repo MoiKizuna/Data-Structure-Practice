@@ -1,6 +1,6 @@
 import java.util.NoSuchElementException;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
-
+// https://leetcode.cn/problems/design-linked-list/
 public class MyLinkedListCode {
     // 双链表节点
     private static class Node {
